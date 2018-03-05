@@ -19,3 +19,5 @@ The datapacks take one or more of the following approaches:
 (to be done)
 * allow recovery of wooden raw materials from the destruction of found wooden objects
 
+For installation instructions, see the file Installing.md in this repo.
+
