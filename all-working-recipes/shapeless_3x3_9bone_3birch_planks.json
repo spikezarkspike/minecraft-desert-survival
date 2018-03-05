@@ -1,0 +1,37 @@
+{
+       "type": "crafting_shapeless",
+       "ingredients": [
+           {
+               "item": "minecraft:bone"
+           },
+           {
+               "item": "minecraft:bone"
+           },
+           {
+               "item": "minecraft:bone"
+           },
+           {
+               "item": "minecraft:bone"
+           },
+           {
+               "item": "minecraft:bone"
+           },
+           {
+               "item": "minecraft:bone"
+           },
+           {
+               "item": "minecraft:bone"
+           },
+           {
+               "item": "minecraft:bone"
+           },
+           {
+               "item": "minecraft:bone"
+           }
+       ],
+       "result": {
+           "item": "minecraft:birch_planks",
+           "count": 3
+       }
+   }
+

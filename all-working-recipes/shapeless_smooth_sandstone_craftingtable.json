@@ -1,0 +1,22 @@
+{
+       "type": "crafting_shapeless",
+       "ingredients": [
+           {
+               "item": "minecraft:smooth_sandstone"
+           },
+           {
+               "item": "minecraft:smooth_sandstone"
+           },
+           {
+               "item": "minecraft:smooth_sandstone"
+           },
+           {
+               "item": "minecraft:smooth_sandstone"
+           }
+       ],
+       "result": {
+           "item": "minecraft:crafting_table",
+           "count": 1
+       }
+   }
+

@@ -1,0 +1,24 @@
+{
+       "type": "crafting_shapeless",
+       "ingredients": [
+           {
+               "item": "<item ID>"
+           },
+           {
+               "item": "<item ID>"
+           },
+           [
+               {
+                   "item": "<item ID>"
+               },
+               {
+                   "item": "<item ID>"
+               }
+           ]
+       ],
+       "result": {
+           "item": "<item ID>",
+           "count": 5
+       }
+   }
+
