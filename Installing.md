@@ -3,8 +3,9 @@
 Please Note: At the present time, Datapacks require a snapshot version of Minecraft, a pre-release 1.13 version. They will not work on version 1.12 or lower. 
 
 
-Download either the current source tree in datapacks-source, or one of the
-zip files in datapacks-versions. In either case this consists of a structure similar to:
+Download either the current source tree in datapacks-source, or one of the zip files in datapacks-versions. (At the time of writing, deploying a zip file directly does not appear to work, so you will have to unpack the zip file or extract it into the datapacks folder.) 
+
+In either case the contents consists of a structure similar to:
 
 spikezarkspike_the_bone_age/
 
