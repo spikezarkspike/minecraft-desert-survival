@@ -1,6 +1,6 @@
 # Installing the minecraft-desert-survival datapacks
 
-PleaseNote: At the present time, Datapacks require a snapshot version of Minecraft, a pre-release 1.13 version. They will not work on version 1.12 or lower. 
+Please Note: At the present time, Datapacks require a snapshot version of Minecraft, a pre-release 1.13 version. They will not work on version 1.12 or lower. 
 
 
 Download either the current source tree in datapacks-source, or one of the
