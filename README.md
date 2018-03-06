@@ -1,7 +1,7 @@
 # Welcome To The Bone Age: minecraft-desert-survival
 Datapacks to make it slightly more feasible to survive in Minecraft in an Endless Desert
 
-Relates to the Tutorial, Survival in an Infinite Desert, on the Minecraft Official Wiki at
+Relates to the Tutorial, Survival in an Infinite Desert, on the Minecraft Official Wiki at:
 
 https://minecraft.gamepedia.com/Tutorials/Survival_in_an_infinite_desert
 
